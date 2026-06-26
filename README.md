@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Harika Pikkili 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Generative AI · Python · RAG Systems</b><br/>
-  LLMs · LangChain · NLP · Web Development<br/>
+  <b>Backend Python Developer · Flask · REST APIs · PostgreSQL</b><br/>
+  AI/ML Integration · LangChain · RAG Systems · Generative AI<br/>
   Final-year B.Tech CSE (AI & ML) · VVITU, Andhra Pradesh · AI Intern @ Infosys
 </p>
 
@@ -10,7 +10,7 @@
   <a href="https://github.com/HARIKA387/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/harika-pikkili-2b3531321" target="_blank">
+  <a href="https://www.linkedin.com/in/pikkiliharika" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pikkiliharika387@gmail.com">
@@ -22,16 +22,16 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent systems — from RAG pipelines to conversational AI — that solve real problems.
+I'm a **Backend Python Developer** who builds clean, scalable APIs and integrates AI/ML into real applications.
 
-My core is **Python · LangChain · LLMs · Flask**, with hands-on experience deploying AI-powered applications including RAG systems, wellness chatbots, and web apps backed by semantic search. I bring a strong foundation in ML fundamentals, Generative AI, and full-stack Python development.
+My core is **Python · Flask · PostgreSQL · REST APIs** — I design backend services, model relational schemas, and ship production-ready systems. On top of that I bring an AI edge: connecting LLMs, building RAG pipelines, and embedding Generative AI into backend workflows.
 
-- 🐍 **Primary stack:** Python · LangChain · FAISS · Flask · SQL
-- 🤖 **AI focus:** RAG systems, LLMs, NLP, Generative AI, Prompt Engineering
-- 🏢 **Experience:** AI Intern at **Infosys Springboard** — chatbot development & AI-based projects
+- 🐍 **Primary stack:** Python · Flask · PostgreSQL · MySQL · REST APIs
+- 🤖 **AI edge:** LangChain · FAISS · LLMs · RAG pipelines · NLP · Prompt Engineering
+- 🏢 **Experience:** AI Intern at **Infosys Springboard** — backend development & chatbot systems
 - 🏆 **Achievement:** 2nd Prize at **AUNSF 3.0 Startup Competition** · Won ₹5,000 cash prize
-- 📜 **Certified:** NPTEL — HCI, DBMS, LLMs, Python for Data Science · AWS-ACM · Generative AI (L4G)
-- 🎯 **Open to:** AI/ML Engineer · Python Developer · Generative AI roles · 2025–2026
+- 📜 **Certified:** NPTEL — Python for Data Science, LLMs, DBMS, HCI · AWS-ACM · Generative AI (L4G)
+- 🎯 **Open to:** Backend Python Developer · Python + AI/ML roles · 2025–2026
 - 📍 **Based in:** Guntur, Andhra Pradesh, India
 
 ---
@@ -40,59 +40,59 @@ My core is **Python · LangChain · LLMs · Flask**, with hands-on experience de
 
 ### 📄 LLM-Based RAG PDF Question Answering System
 **Python · LangChain · FAISS · Flask · LLMs**
-A Retrieval-Augmented Generation system that enables semantic question answering over PDF documents. Users upload documents through a Flask interface; the system chunks and indexes content via FAISS, then uses an LLM to generate grounded, context-aware answers.
-`#RAG` `#LangChain` `#FAISS` `#LLMs` `#Flask` `#Python`
+A production-style backend service that enables semantic question answering over PDF documents. Built a Flask API that accepts document uploads, chunks and indexes content via FAISS, then routes queries through an LLM to return grounded, context-aware answers — full backend from ingestion to inference.
+`#RAG` `#LangChain` `#FAISS` `#Flask` `#REST API` `#Python`
 
 ---
 
 ### 🧘 AI-Based Wellness Chatbot
-**Python · NLP · Generative AI**
-An intelligent wellness assistant that uses NLP techniques and generative AI to provide personalised conversational support. Built during the Infosys Springboard internship with structured data practices and AI chatbot design principles.
-`#GenerativeAI` `#NLP` `#Chatbot` `#Python`
+**Python · Flask · NLP · Generative AI**
+Backend chatbot service using NLP and Generative AI to deliver personalised conversational support. Designed with structured data handling, clean API endpoints, and intelligent query processing. Built during the Infosys Springboard internship.
+`#GenerativeAI` `#NLP` `#Flask` `#Chatbot` `#Python`
 
 ---
 
 ### 💧 HealthWatch — Waterborne Disease Monitoring PWA
 **React · TypeScript · Vite · Tailwind CSS**
-A progressive web app for ASHA workers, clinic staff, and district health officers to report waterborne disease cases, log water quality readings by location, and access categorised prevention guidance. Features role-based views and a CI/CD pipeline deploying to GitHub Pages.
-`#React` `#TypeScript` `#PublicHealth` `#PWA` `#Frontend`
+A progressive web app for ASHA workers, clinic staff, and district health officers to report waterborne disease cases and log water quality readings. Role-based views, offline-connectivity awareness, and CI/CD via GitHub Actions.
+`#React` `#TypeScript` `#PublicHealth` `#PWA`
 [Live Demo →](https://sriramakanthpendikatla.github.io/HealthWatch/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core — AI & Python
+### Core — Backend Python
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0055A4?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### AI / ML
+### AI / ML Integration
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0055A4?style=flat-square&logo=meta&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F79318?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat-square)
-
-### Web & Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Web & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -112,13 +112,13 @@ A progressive web app for ASHA workers, clinic staff, and district health office
 ## 🏢 Internship
 
 **AI Intern — Infosys Springboard**
-Collaborated on AI-based projects including chatbot development, applied problem-solving and structured data practices, and built a Wellness Chatbot using core AI/NLP concepts.
+Developed backend AI services and chatbot systems, applied structured data practices across AI-based projects, and built a Wellness Chatbot using Python, NLP, and Generative AI concepts.
 
 ---
 
 ## 🏅 Certifications
 
-- 📘 NPTEL — Human Computer Interaction, DBMS, LLMs, Python for Data Science
+- 📘 NPTEL — Python for Data Science, LLMs, DBMS, Human Computer Interaction
 - ☁️ AWS — ACM Certified
 - 🤖 Generative AI — L4G
 - 🐍 Python Programming — Udemy
@@ -128,15 +128,15 @@ Collaborated on AI-based projects including chatbot development, applied problem
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **AI/ML Engineer** and **Python Developer** roles — especially ones involving Generative AI, LLMs, or intelligent systems.
-If you're building something that thinks, let's talk.
+I'm actively looking for **Backend Python Developer** roles — with a bonus if the product touches AI or ML.
+If you need clean APIs, solid database design, and a developer who ships — let's talk.
 
 <p align="center">
   <a href="https://github.com/HARIKA387/portfolio">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/harika-pikkili-2b3531321">
+  <a href="https://www.linkedin.com/in/pikkiliharika">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
