@@ -1,5 +1,11 @@
+# <p align="center">Hi 👋, I'm **Harika Pikkili**</p>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Harika+Pikkili;AI%2FML+Engineer+%26+Python+Backend+Dev;LangChain+%7C+RAG+%7C+Flask+%7C+GenAI;Building+Intelligent+Backend+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Python+Developer;AI+%7C+ML+Engineer;Flask+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+RAG+%7C+Generative+AI;Building+Production-Ready+AI+Applications"/>
+</p>
+
+<p align="center">
+Backend Python • Flask • PostgreSQL • REST APIs • LangChain • RAG • LLMs
 </p>
 
 <p align="center">
