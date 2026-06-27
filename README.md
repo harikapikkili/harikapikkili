@@ -1,281 +1,203 @@
-# <p align="center">Hi 👋, I'm **Harika Pikkili**</p>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Python+Developer;AI+%7C+ML+Engineer;Flask+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+RAG+%7C+Generative+AI;Building+Production-Ready+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Harika+Pikkili;AI%2FML+Engineer+%26+Python+Backend+Dev;LangChain+%7C+RAG+%7C+Flask+%7C+GenAI;Building+Intelligent+Backend+Systems"/>
 </p>
 
 <p align="center">
-Backend Python • Flask • PostgreSQL • REST APIs • LangChain • RAG • LLMs
+  <img src="https://komarev.com/ghpvc/?username=pikkiliharika&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/pikkiliharika?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/pikkiliharika?style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=HARIKA387&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/HARIKA387?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/HARIKA387?style=for-the-badge"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/HARIKA387">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pikkiliharika">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pikkiliharika387@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HARIKA387/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://github.com/pikkiliharika">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pikkiliharika">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:pikkiliharika387@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pikkiliharika/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a **Backend Python Developer** passionate about building scalable backend systems and integrating AI into real-world applications.
+I'm a **AI/ML Engineer & Python Backend Developer** who loves building intelligent systems that actually solve real problems — not just demos.
 
-My expertise lies in designing clean REST APIs, developing backend architectures with Flask, managing relational databases, and building intelligent AI applications using LangChain, RAG, and Large Language Models.
+My focus is on designing clean REST APIs, developing backend architectures with Flask, and integrating LLMs, RAG pipelines, and Generative AI into production-ready applications.
 
-* 🔭 Currently building **Production-Ready RAG Applications**
-* 🌱 Learning **System Design, Docker & AWS**
-* 🤖 Passionate about **Generative AI & LLM Applications**
-* 🏆 **2nd Prize Winner** — AUNSF 3.0 Startup Competition (₹5,000 Cash Prize)
-* 💼 AI Intern @ **Infosys Springboard**
-* 🎓 Final Year **B.Tech CSE (AI & ML)**
-* 📍 Andhra Pradesh, India
-* 💬 Ask me about **Python, Flask, REST APIs, PostgreSQL, LangChain & AI**
-* 🚀 Looking for **Backend Python Developer / AI Engineer Roles**
+- 🔭 Currently building **Production-Ready RAG & LLM Applications**
+- 🌱 Learning **System Design, Docker & AWS**
+- 🤖 Passionate about **Generative AI, Agentic AI & LLM Applications**
+- 🏆 **2nd Prize Winner** — AUNSF 3.0 Startup Competition (₹5,000 Cash Prize)
+- 💼 AI Intern @ **Infosys Springboard**
+- 🎓 Final Year **B.Tech CSE (AI & ML) @ VVITU** — CGPA 8.5
+- 📍 Andhra Pradesh, India
+- 💬 Ask me about **Python, Flask, REST APIs, PostgreSQL, LangChain & RAG**
+- 🚀 Open to **Python Backend / AI Engineer Roles**
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 ```text
-🚀 Building Production-ready AI Applications
-
-📚 Learning System Design
-
-🤖 Exploring Agentic AI
-
-☁️ AWS + Docker
-
-💼 Backend Python & AI Opportunities
+🤖 Building Production-Ready RAG & LLM Applications
+📚 Learning System Design & Software Architecture
+🧠 Exploring Agentic AI & Multi-Agent Systems
+☁️  AWS + Docker
+💼 Actively Looking for Backend Python / AI Roles
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📄 LLM-Based RAG PDF Question Answering System
+### 📄 LLM-Based RAG PDF Question Answering System
+**Python • Flask • LangChain • FAISS • LLMs • REST APIs**
 
-**Python • Flask • LangChain • FAISS • LLMs**
+> Upload any PDF and get context-aware answers powered by semantic search and vector embeddings.
 
-✔ Upload PDF Documents
-
-✔ Semantic Search
-
-✔ Vector Database using FAISS
-
-✔ Context-aware Question Answering
-
-✔ REST APIs
+✔ PDF ingestion & chunking pipeline  
+✔ Semantic search with FAISS vector database  
+✔ Context-aware Q&A using LLMs  
+✔ Clean REST API interface  
+✔ Prompt engineering for accurate responses  
 
 ---
 
-## 🤖 AI-Based Wellness Chatbot
+### 🤖 AI-Based Wellness Chatbot
+**Python • Flask • NLP • Generative AI • Prompt Engineering**
 
-**Python • Flask • NLP • Generative AI**
+> An intelligent chatbot providing mental wellness support — built during Infosys Springboard internship.
 
-✔ AI Chatbot
-
-✔ NLP Processing
-
-✔ Prompt Engineering
-
-✔ Backend APIs
-
-✔ Built during Infosys Springboard Internship
+✔ NLP-powered conversational AI  
+✔ Generative AI response generation  
+✔ Prompt engineering for empathetic responses  
+✔ Backend API integration  
+✔ Built & deployed during Infosys AI Internship  
 
 ---
 
-## 💧 HealthWatch — Waterborne Disease Monitoring PWA
+### 🌐 Portfolio Website
+**HTML5 • CSS3 • Responsive Design • GitHub Pages**
 
-**React • TypeScript • Tailwind CSS**
+> Personal portfolio showcasing projects, skills, and achievements.
 
-✔ Progressive Web App
-
-✔ Offline Support
-
-✔ Role-based Dashboard
-
-✔ Disease Reporting
-
-✔ Water Quality Monitoring
-
-🔗 **Live Demo:** https://sriramakanthpendikatla.github.io/HealthWatch/
+✔ Fully responsive layout  
+✔ Clean UI/UX design  
+✔ GitHub-hosted deployment  
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Backend
-
+### 🐍 Backend
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,flask,java"/>
-
+  <img src="https://skillicons.dev/icons?i=python,flask,java"/>
 </p>
 
----
-
-## AI & ML
-
+### 🤖 AI & ML
 <p>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
+  <img src="https://skillicons.dev/icons?i=pytorch"/>
 </p>
 
-* LangChain
-* FAISS
-* LLMs
-* NLP
-* RAG
-* Prompt Engineering
-* Scikit-Learn
-* Generative AI
+`LangChain` `RAG` `FAISS` `LLMs` `NLP` `Prompt Engineering` `Scikit-Learn` `Generative AI`
 
----
-
-## Database
-
+### 🗄️ Database
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
----
-
-## Frontend
-
+### 🎨 Frontend
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
----
-
-## Tools
-
+### 🛠️ Tools & Platforms
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥈 2nd Prize — **AUNSF 3.0 Startup Competition**
-
-💰 Cash Prize — ₹5,000
-
-🏢 AI Intern — Infosys Springboard
-
-🎖 Multiple NPTEL Certifications
-
----
-
-# 📜 Certifications
-
-* NPTEL — Python for Data Science
-* NPTEL — Database Management Systems
-* NPTEL — Human Computer Interaction
-* NPTEL — Large Language Models
-* AWS ACM Certification
-* Generative AI — L4G
-* Python Programming — Udemy
-* AI & ML — Adverk Technologies
+| 🥈 | 2nd Prize — **AUNSF 3.0 Startup Competition** — ₹5,000 Cash Prize |
+|---|---|
+| 🏢 | AI Intern — **Infosys Springboard** |
+| 🏛️ | Participated — **Havana Project Exhibition, GITAM University** |
+| 💻 | Participated — **Udgama 1.0 Hackathon by ACM** |
+| 🎤 | Organized — **Spell Bee Event, Balotsav** |
+| 🎖️ | Multiple **NPTEL Certifications** |
 
 ---
 
-# 📊 GitHub Analytics
+## 📜 Certifications
+
+- 📘 NPTEL — Large Language Models
+- 📘 NPTEL — Python for Data Science
+- 📘 NPTEL — Database Management Systems
+- 📘 NPTEL — Human Computer Interaction
+- ☁️ AWS ACM Certification
+- 🤖 Generative AI — L4G
+- 🐍 Python Programming — Udemy
+- 🧠 AI & ML — Adverk Technologies
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARIKA387&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIKA387&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pikkiliharika&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikkiliharika&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=HARIKA387&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=pikkiliharika&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HARIKA387&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=pikkiliharika&theme=tokyonight&row=2&column=4&no-frame=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARIKA387&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pikkiliharika&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pikkiliharika">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pikkiliharika387@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/HARIKA387/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/pikkiliharika">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:pikkiliharika387@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/pikkiliharika/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 ---
 
-# 💡 Quote
-
-> **"Code. Learn. Build. Repeat."**
-
----
-
 <p align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-Thanks for visiting my profile ❤️
-
+  <i>"Code. Learn. Build. Repeat."</i>
+  <br/><br/>
+  ⭐ If you find my work useful, consider starring my repositories!<br/>
+  Thanks for visiting ❤️
 </p>
