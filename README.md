@@ -9,22 +9,22 @@ Backend Python • Flask • PostgreSQL • REST APIs • LangChain • RAG • 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pikkiliharika&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/pikkiliharika?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/pikkiliharika?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=harikapikkili&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/harikapikkili?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/harikapikkili?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pikkiliharika">
+  <a href="https://github.com/harikapikkili">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/pikkiliharika">
+  <a href="https://www.linkedin.com/in/harikapikkili">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:pikkiliharika387@gmail.com">
+  <a href="mailto:harikapikkili387@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/pikkiliharika/portfolio">
+  <a href="https://github.com/harikapikkili/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
@@ -159,12 +159,12 @@ My focus is on designing clean REST APIs, developing backend architectures with 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pikkiliharika&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikkiliharika&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harikapikkili&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikapikkili&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pikkiliharika&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=harikapikkili&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -172,7 +172,7 @@ My focus is on designing clean REST APIs, developing backend architectures with 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pikkiliharika&theme=tokyonight&row=2&column=4&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harikapikkili&theme=tokyonight&row=2&column=4&no-frame=true"/>
 </p>
 
 ---
@@ -180,7 +180,7 @@ My focus is on designing clean REST APIs, developing backend architectures with 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pikkiliharika&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikapikkili&theme=tokyo-night"/>
 </p>
 
 ---
@@ -188,13 +188,13 @@ My focus is on designing clean REST APIs, developing backend architectures with 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pikkiliharika">
+  <a href="https://www.linkedin.com/in/harikapikkili">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:pikkiliharika387@gmail.com">
+  <a href="mailto:harikapikkili387@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/pikkiliharika/portfolio">
+  <a href="https://github.com/harikapikkili/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
