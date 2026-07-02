@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Backend Python • Flask • PostgreSQL • REST APIs • LangChain • RAG • LLMs • FastAPI
+Backend Python • Flask • PostgreSQL • REST APIs • LangChain • RAG • LLMs
 </p>
 
 <p align="center">
