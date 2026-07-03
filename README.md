@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Harika Pikkili</h1>
 
 <p align="center">
@@ -244,4 +243,3 @@ If you like my work, consider starring my repositories and connecting with me on
 **Happy Coding! 🚀**
 
 </p>
-```
