@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harika Pikkili</h1>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%7C+ML+Engineer;Flask+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+RAG+%7C+Generative+AI;Building+Production-Ready+AI+Applications"/>
 </p>
