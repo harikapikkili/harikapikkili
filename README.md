@@ -1,108 +1,174 @@
-<h1 align="center">Hi 👋, I'm Harika Pikkili</h1>
+<h1 align="center">
+Hi 👋, I'm Harika Pikkili
+</h1>
+
+<h3 align="center">
+Python Backend Developer • AI/ML Engineer • Generative AI Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%7C+ML+Engineer;Flask+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+RAG+%7C+Generative+AI;Building+Production-Ready+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%7C+ML+Engineer;Building+Production+Ready+AI+Applications;Flask+%7C+PostgreSQL+%7C+REST+API;LangChain+%7C+RAG+%7C+LLMs;Always+Learning+Something+New+🚀"/>
 </p>
 
-
 <p align="center">
-Backend Python • Flask • PostgreSQL • REST APIs • LangChain • RAG • LLMs
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harikapikkili&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=harikapikkili&style=for-the-badge&color=0e75b6"/>
+
 <img src="https://img.shields.io/github/followers/harikapikkili?style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/stars/harikapikkili?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
-</p>
 
-<p align="center">
-<a href="https://github.com/harikapikkili">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
 
-<a href="https://www.linkedin.com/in/harikapikkili">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:harikapikkili387@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://harikapikkili.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 💫 About Me
 
-I'm **Harika Pikkili**, a Final Year **B.Tech Computer Science (AI & ML)** student passionate about building scalable backend systems and AI-powered applications.
+```yaml
+Name: Harika Pikkili
 
-I enjoy developing REST APIs, backend architectures, Retrieval-Augmented Generation (RAG) systems, and Generative AI applications using Python.
+Education:
+  Final Year B.Tech CSE (AI & ML)
 
-- 🔭 Building Production-Ready AI Applications
-- 🌱 Learning System Design, Docker & AWS
-- 🤖 Exploring Generative AI & Agentic AI
-- 💼 AI Intern – Infosys Springboard
-- 🏆 2nd Prize – AUNSF 3.0 Startup Competition
-- 🎓 B.Tech CSE (AI & ML)
-- 📍 Andhra Pradesh, India
-- 💬 Ask me about Python, Flask, PostgreSQL, REST APIs, LangChain & RAG
-- 🚀 Open to Python Backend & AI Engineer Opportunities
+Location:
+  Andhra Pradesh, India
+
+Current Role:
+  AI Intern
+
+Interests:
+  - Backend Development
+  - REST APIs
+  - Generative AI
+  - Retrieval-Augmented Generation (RAG)
+  - Large Language Models
+  - System Design
+
+Currently Learning:
+  - Docker
+  - AWS
+  - Microservices
+  - Agentic AI
+
+Looking For:
+  Python Backend Developer
+  AI Engineer
+  Software Engineer
+```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Tech Stack
 
-```text
-🤖 Building Production-Ready RAG Applications
-📚 Learning System Design
-☁️ Docker & AWS
-🧠 Exploring Agentic AI
-💼 Preparing for Software Engineering Roles
-````
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📄 LLM-Based RAG PDF Question Answering System
+## 📄 LLM Based PDF Question Answering System
 
-**Python • Flask • LangChain • FAISS • REST API**
+> Python • Flask • LangChain • FAISS • REST API
 
-✔ Upload PDF
+✅ Upload PDFs
 
-✔ Semantic Search
+✅ Vector Embeddings
 
-✔ Vector Embeddings
+✅ Semantic Search
 
-✔ Context-aware Question Answering
+✅ Retrieval-Augmented Generation
 
-✔ REST API
+✅ Context-Aware Answers
 
 ---
 
 ## 🤖 AI Wellness Chatbot
 
-**Python • Flask • NLP • Generative AI**
-
-✔ Conversational AI
+> Python • Flask • NLP • Generative AI
 
 ✔ Prompt Engineering
 
-✔ Backend API
+✔ REST APIs
 
-✔ AI Internship Project
+✔ Conversational AI
+
+✔ Personalized Responses
 
 ---
 
 ## 🌐 Portfolio Website
 
-**HTML • CSS • JavaScript**
+> HTML • CSS • JavaScript
 
-✔ Responsive
+✔ Responsive Design
 
 ✔ Modern UI
 
@@ -110,81 +176,54 @@ I enjoy developing REST APIs, backend architectures, Retrieval-Augmented Generat
 
 ---
 
-# 💻 Tech Stack
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,java"/>
-</p>
-
-### AI & ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws"/>
-</p>
-
----
-
 # 🏆 Achievements
 
-* 🥈 2nd Prize – AUNSF 3.0 Startup Competition
-* 💼 AI Intern – Infosys Springboard
-* 🎤 Organized Spell Bee Event
-* 🏛️ Participated in Havana Project Exhibition
-* 💻 Participated in Udgama Hackathon
-* 📜 Multiple NPTEL Certifications
+🥈 2nd Prize — AUNSF 3.0 Startup Competition
+
+💼 AI Intern — Infosys Springboard
+
+🎤 Organized Spell Bee Event
+
+💻 Udgama Hackathon Participant
+
+🏛 Havana Project Exhibition
+
+📜 Multiple NPTEL Certifications
 
 ---
 
-# 📜 Certifications
+# 📚 Certifications
 
-* NPTEL – Large Language Models
-* NPTEL – Database Management Systems
-* NPTEL – Human Computer Interaction
-* NPTEL – Python for Data Science
-* Generative AI – L4G
-* Python Programming – Udemy
-* AI & ML – Adverk Technologies
+✔ NPTEL — Large Language Models
+
+✔ NPTEL — Database Management Systems
+
+✔ NPTEL — Human Computer Interaction
+
+✔ Python for Data Science
+
+✔ Generative AI (L4G)
+
+✔ Python Programming (Udemy)
+
+✔ AI & ML — Adverk Technologies
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harikapikkili&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikapikkili&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=harikapikkili&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -192,7 +231,9 @@ I enjoy developing REST APIs, backend architectures, Retrieval-Augmented Generat
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harikapikkili&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harikapikkili&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
 </p>
 
 ---
@@ -200,38 +241,48 @@ I enjoy developing REST APIs, backend architectures, Retrieval-Augmented Generat
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harikapikkili&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harikapikkili&theme=react-dark"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌎 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/harikapikkili">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/harikapikkili">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/harikapikkili">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:harikapikkili387@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://harikapikkili.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💭 Developer Quote
 
-> **"Code. Learn. Build. Improve. Repeat."**
+> **"Turning ideas into scalable software with Python and AI."**
 
 ---
 
@@ -239,8 +290,8 @@ I enjoy developing REST APIs, backend architectures, Retrieval-Augmented Generat
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider starring my repositories and connecting with me on LinkedIn.
+### If you like my projects, consider ⭐ starring the repositories.
 
-**Happy Coding! 🚀**
+### Let's connect and build something amazing! 🚀
 
 </p>
