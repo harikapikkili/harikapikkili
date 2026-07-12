@@ -7,16 +7,22 @@ Python Backend Developer • AI/ML Engineer • Generative AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%7C+ML+Engineer;Building+Production+Ready+AI+Applications;Flask+%7C+PostgreSQL+%7C+REST+API;LangChain+%7C+RAG+%7C+LLMs;Always+Learning+Something+New+🚀"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%7C+ML+Engineer;Building+Production-Ready+AI+Applications;Flask+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+RAG+%7C+LLMs;Always+Learning+🚀"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=harikapikkili&style=for-the-badge&color=0e75b6"/>
+<a href="https://github.com/harikapikkili">
+<img src="https://img.shields.io/github/followers/harikapikkili?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/harikapikkili?style=for-the-badge"/>
-
+<a href="https://github.com/harikapikkili">
 <img src="https://img.shields.io/github/stars/harikapikkili?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=harikapikkili&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
 
@@ -30,39 +36,49 @@ Python Backend Developer • AI/ML Engineer • Generative AI Enthusiast
 Name: Harika Pikkili
 
 Education:
-  Final Year B.Tech CSE (AI & ML)
+  B.Tech Computer Science (AI & ML)
+
+Role:
+  Python Backend Developer
 
 Location:
   Andhra Pradesh, India
 
-Current Role:
-  AI Intern
-
 Interests:
-  - Backend Development
-  - REST APIs
-  - Generative AI
-  - Retrieval-Augmented Generation (RAG)
+  - Backend Engineering
+  - Artificial Intelligence
   - Large Language Models
+  - Generative AI
+  - Retrieval-Augmented Generation
   - System Design
 
-Currently Learning:
+Learning:
   - Docker
   - AWS
   - Microservices
   - Agentic AI
 
 Looking For:
+  Software Engineer
   Python Backend Developer
   AI Engineer
-  Software Engineer
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Current Focus
 
-## 👨‍💻 Languages
+- 🔥 Building Production-Ready AI Applications
+- 🤖 Developing RAG & LLM Projects
+- ☁ Learning Docker & AWS
+- 📚 Mastering System Design
+- 💻 Preparing for Software Engineering Interviews
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
 
@@ -72,11 +88,11 @@ Looking For:
 
 ---
 
-## ⚙ Backend
+## Backend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
 
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
@@ -84,7 +100,7 @@ Looking For:
 
 ---
 
-## 🤖 AI / ML
+## AI / ML
 
 <p>
 
@@ -96,13 +112,11 @@ Looking For:
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-
 </p>
 
 ---
 
-## 🗄 Database
+## Database
 
 <p>
 
@@ -112,7 +126,7 @@ Looking For:
 
 ---
 
-## 🎨 Frontend
+## Frontend
 
 <p>
 
@@ -122,7 +136,7 @@ Looking For:
 
 ---
 
-## 🛠 Tools
+## Tools
 
 <p>
 
@@ -134,33 +148,26 @@ Looking For:
 
 # 🚀 Featured Projects
 
-## 📄 LLM Based PDF Question Answering System
+## 📄 LLM-Based PDF Question Answering System
 
 > Python • Flask • LangChain • FAISS • REST API
 
-✅ Upload PDFs
-
-✅ Vector Embeddings
-
-✅ Semantic Search
-
-✅ Retrieval-Augmented Generation
-
-✅ Context-Aware Answers
+- 📂 PDF Upload
+- 🔍 Semantic Search
+- 🧠 Vector Embeddings
+- 🤖 Context-Aware Answers
+- ⚡ REST API
 
 ---
 
 ## 🤖 AI Wellness Chatbot
 
-> Python • Flask • NLP • Generative AI
+> Python • Flask • NLP • Prompt Engineering
 
-✔ Prompt Engineering
-
-✔ REST APIs
-
-✔ Conversational AI
-
-✔ Personalized Responses
+- AI Conversations
+- Prompt Engineering
+- Backend APIs
+- Personalized Responses
 
 ---
 
@@ -168,11 +175,9 @@ Looking For:
 
 > HTML • CSS • JavaScript
 
-✔ Responsive Design
-
-✔ Modern UI
-
-✔ GitHub Pages
+- Responsive Design
+- Modern UI
+- GitHub Pages
 
 ---
 
@@ -182,11 +187,11 @@ Looking For:
 
 💼 AI Intern — Infosys Springboard
 
-🎤 Organized Spell Bee Event
+🏛 Havana Project Exhibition
 
 💻 Udgama Hackathon Participant
 
-🏛 Havana Project Exhibition
+🎤 Organized Spell Bee Event
 
 📜 Multiple NPTEL Certifications
 
@@ -194,47 +199,16 @@ Looking For:
 
 # 📚 Certifications
 
-✔ NPTEL — Large Language Models
-
-✔ NPTEL — Database Management Systems
-
-✔ NPTEL — Human Computer Interaction
-
-✔ Python for Data Science
-
-✔ Generative AI (L4G)
-
-✔ Python Programming (Udemy)
-
-✔ AI & ML — Adverk Technologies
+- NPTEL — Large Language Models
+- NPTEL — Database Management Systems
+- NPTEL — Human Computer Interaction
+- Python for Data Science
+- Generative AI — L4G
+- Python Programming — Udemy
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harikapikkili&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikapikkili&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=harikapikkili&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harikapikkili&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <p align="center">
 
@@ -244,7 +218,29 @@ Looking For:
 
 ---
 
-# 🌎 Connect With Me
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=harikapikkili&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable GitHub Actions first, then add the following image after creating the workflow.**
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/harikapikkili/harikapikkili/output/github-contribution-grid-snake.svg"/>
+</p>
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -276,17 +272,17 @@ Looking For:
 
 ---
 
-# 💭 Developer Quote
+# 💡 Quote
 
-> **"Turning ideas into scalable software with Python and AI."**
+> **"I enjoy transforming ideas into scalable backend systems and AI-powered applications."**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-### If you like my projects, consider ⭐ starring the repositories.
+### If you like my work, consider ⭐ starring my repositories.
 
 ### Let's connect and build something amazing! 🚀
 
