@@ -274,9 +274,7 @@ Looking For:
 
 # 💡 Quote
 
-> **"I enjoy transforming ideas into scalable backend systems and AI-powered applications."**
-
----
+> "Passionate about designing scalable backend architectures and building intelligent AI applications that make a real-world impact."
 
 <p align="center">
 
