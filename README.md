@@ -4,7 +4,7 @@ Hi 👋, I'm Harika Pikkili
 
 <h3 align="center">   
 Python Backend Developer • AI/ML Engineer • Generative AI Enthusiast
-</h3>
+</h3> 
 
 <p align="center"> 
 
