@@ -6,7 +6,7 @@ Hi 👋, I'm Harika Pikkili
 Python Backend Developer • AI/ML Engineer • Generative AI Enthusiast
 </h3> 
  
-<p align="center"> 
+<p align="center">  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%7C+ML+Engineer;Building+Production-Ready+AI+Applications;Flask+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+RAG+%7C+LLMs;Always+Learning+🚀"/>
 
