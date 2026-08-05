@@ -108,6 +108,7 @@ Looking For:
 
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
+
 <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
