@@ -35,6 +35,9 @@ Name: Harika Pikkili
 Education:
   B.Tech Computer Science (AI & ML)
 
+Role:
+  Python Backend Developer
+
 Location:
   Andhra Pradesh, India
 
